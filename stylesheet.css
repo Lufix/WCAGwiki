@@ -1,0 +1,34 @@
+
+body {
+	font-size: 1em;
+	font-family: sans-serif;
+	color: #FFFFFF
+	line-height: 1.5em;
+}
+
+#content {
+	width: 640px;
+	margin: auto;
+	
+	
+}
+
+input {
+	padding: 5px;
+	margin: 5px;
+	
+}
+
+label {
+	display: block;
+	margin: 5px;
+}
+
+input {
+	display: block;
+}
+
+.button {
+	float: left;
+	padding: 10px;
+}
